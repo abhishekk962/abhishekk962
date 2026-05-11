@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://cdn.developertools.workers.dev/p/0DBQOztL5xMIy22ErtjTPdtuwRk_ZczMm8lHau8eDATTQA)
+
+![Tracking logs](https://script.google.com/macros/s/AKfycbyzl587Rs4RtX8rbOiR5uPOb4mC7oA1DATyFrLPjVHgmP9vwdBVUmlK4voTYLSp3Zjv/exec)
