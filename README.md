@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 # Github Contributions
 
 - Below you'll find my github contrubutions
-- FYI - There's more private repos that public
+- FYI - There's more private repos than public
 - See how the graph is not consistent and how there's contributions even on weekends
 - Crazy Right?
 - Maybe for someone who loves building, that's how the graph looks for them
